@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**WaldemarEs/WaldemarEs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Waldemar Escobar
 ---
@@ -24,4 +20,4 @@
 * [Facebook](https://www.facebook.com/tockarte)
 * [Github](https://github.com/WaldemarEs)
 
--->
+
