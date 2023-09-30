@@ -18,6 +18,6 @@ _Inmigrante Venezolano_, **Profesor** en la especialidad de _educación musical_
 ### Contacto
 * [LinkedIn](https://www.linkedin.com/in/waldemar-escobar-50a494a5/)
 * [Facebook](https://www.facebook.com/tockarte)
-* [Github](https://github.com/WaldemarEs)
+* [YouTube](https://www.youtube.com/channel/UClp1iYec1eelaYq6u3sxx6A)
 
 
