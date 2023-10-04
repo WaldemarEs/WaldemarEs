@@ -2,7 +2,7 @@
 # Waldemar Escobar
 ---
 
-_Inmigrante Venezolano_, **Profesor** en la especialidad de _educación musical_, aficionado a la tecnología y las redes sociales. Actualmente trabajo en el desarrollo de mis habilidades como **Web Developer**.
+ **Profesor** _Venezolano_ en la especialidad de _educación musical_, aficionado a la tecnología y las redes sociales. Actualmente trabajo estudio para ser un **Web Developer**.
 
 
 
