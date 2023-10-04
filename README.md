@@ -2,7 +2,7 @@
 # Waldemar Escobar
 ---
 
- **Profesor** _Venezolano_ en la especialidad de _educación musical_, aficionado a la tecnología y las redes sociales. Actualmente trabajo estudio para ser un **Web Developer**.
+ **Profesor** _Venezolano_ en la especialidad de _educación musical_, aficionado a la tecnología y las redes sociales. Actualmente estudio para ser un **Web Developer**.
 
 
 
